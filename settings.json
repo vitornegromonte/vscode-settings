@@ -67,7 +67,7 @@
     "tsconfig.json": "tune",
     "*.proto": "3d"
   },
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "One Dark Pro",
   "workbench.statusBar.visible": true,
   "workbench.activityBar.visible": true,
   "editor.minimap.enabled": false,
